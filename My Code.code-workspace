@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../My Code"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../c++ programs"
+		},
+		{
+			"path": "../../c++ programs/namste india"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
